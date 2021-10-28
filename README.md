@@ -1,0 +1,2 @@
+# GraphQLTest
+GithubのgraphQLAPIを試すための仮リポジトリ
